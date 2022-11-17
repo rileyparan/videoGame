@@ -1,4 +1,57 @@
-# videoGame
- my game for class...
-I made this game in Intro to Programming class at Bellarmine 2022...
-everytime i change something here it is listening...
+# introToProgrammingFinalProjectP1
+# Path Attack...
+
+Using algorithm to create codes of blocks to fit in certain spaces and cancel each other out   
+
+## Description
+
+Player has control of where the blocks that are falling go to correspond to their color 
+
+## Getting Started
+
+### Dependencies
+
+* Pygame, Python
+
+### Installing
+
+* Already downloaded programs 
+
+### Executing program
+
+* Using code within python and creating a game within pygame 
+*          how to place a block within the space provided that go along with the color group 
+```
+code blocks for commands
+```
+
+## Help
+
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Chris Cozort  
+ex. ccozort@bcp.org
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [w3Schools](https://www.w3schools.com/python/default.asp)
+* [PyGame](https://www.pygame.org/docs/)
+* [Automate The Boring Stuff](https://automatetheboringstuff.com/)
+* [Game Dev in depth topics](https://www.youtube.com/watch?v=9fYgkFuU-iI&list=PLsk-HSGFjnaHYvbjMbTQG6kLhhZHLzdb3)
